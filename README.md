@@ -1,6 +1,6 @@
 # From validation using react.js
 
-    check it out[live!](https://jovial-northcutt-97fcc0.netlify.com/)
+    check it out[live!](https://birukyemane.github.io/form-validation-in-JavaScript/)
 
 ## Features
     
